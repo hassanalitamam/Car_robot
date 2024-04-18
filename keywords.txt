@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for car robot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+carrobot KEYWORD1
+carrobotvip KEYWORD1
+Servo	KEYWORD1
+car KEYWORD1
+Car KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ hassanali KEYWORD2
+writeMicroseconds	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DEFAULT_MIN_PULSE_WIDTH	LITERAL1
+DEFAULT_MAX_PULSE_WIDTH	LITERAL1
+DEFAULT_NEUTRAL_PULSE_WIDTH_us	LITERAL1
+PWM_PERIOD_us	LITERAL1
